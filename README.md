@@ -24,4 +24,4 @@ This project is a Python-based Password Strength Analyzer that evaluates the sec
    cd Password-Analyzer
 5. Run the tool:
    ```sh
-   python Test Password Strength.py
+   python Test_Password_Strength.py
